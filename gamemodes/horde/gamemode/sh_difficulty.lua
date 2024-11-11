@@ -194,7 +194,30 @@ HORDE.Difficulty = {
         xpMultiStart = 4,
         xpMultiEnd = 7,
     },
-
+    [9] = {
+        name = "WTF",
+        damageMultiplier = 1.99,
+        enemyCountMultiplier = 1,
+        rewardMultiplier = 0.4,
+        healthMultiplier = 2.0,
+        startMoneyMultiplier = 2.5,
+        spawnRadiusMultiplier = 0.4,
+        maxEnemiesAliveScaleFactor = 2.0,
+        poisonHeadcrabDamage = 80,
+        statusDurationBonus = 6,
+        breakHealthLeft = 0.10,
+        shockDamageIncrease = 0.40,
+        frostbiteSlow = 0.85,
+        eliteHealthScaleAdd = 0.125,
+        eliteHealthScaleMultiplier = 1.5,
+        eliteMutationProbability = 0.30,
+        mutationProbability = 0.50,
+        additionalPack = 5,
+        additionalAmmoBoxes = 15,
+        hemorrhagePercentage = 0.6,
+        xpMultiStart = 3,
+        xpMultiEnd = 8,
+    },
 }
 
 -- Making sure that all all keys are present
